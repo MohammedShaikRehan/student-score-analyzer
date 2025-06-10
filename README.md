@@ -9,6 +9,5 @@ A simple Python script to:
 
 🔧 Future Goals ( aka realisations) :
 - Save results to `.txt` or `.csv` file
-- Build a Streamlit or Flask app
 
 🎯 Skills used: Python basics, dictionaries, functions, loops
